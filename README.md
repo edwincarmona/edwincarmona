@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @edwincarmona
 - 👀 I’m interested in Laravel and Java Projects,
 - 🌱 I’m currently learning Python and Vue JS
-- 💞️ I’m looking to collaborate on projects with pay interfaces
+- 💞️ I’m looking to collaborate on projects with payment interfaces
 - 📫 How to reach me: eedwincarmona@gmail.com
 
 <!---
